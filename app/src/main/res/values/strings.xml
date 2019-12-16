@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TDLL410a</string>
+    <string name="action_view_dump_list">View dumps</string>
+    <string name="action_open_diff_tool">Diff tool</string>
+    <string name="action_write_dump">Write dump</string>
+    <string name="error_no_nfc">На Вашем устройстве отсутствует NFC адаптер, подключите ACR122U</string>
+    <string name="error_nfc_is_disabled">Включите NFC адаптер в настройках и перезапустите приложение</string>
+    <string name="dumplist_title">Все дампы</string>
+    <string name="dumplist_subtitle">Выберите дамп для записи на карту</string>
+</resources>
